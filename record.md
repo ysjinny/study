@@ -6,6 +6,9 @@ claude code cli가 도커 내 컨테이너에서 인증이 잘 안된다.
 오늘은 docker daemon, docker context, docker engine, container 등등의 차이점을 좀 알게 되었다. 
 진짜 AI가 생기고 나서 나는 많은 것들이 편해졌다. 
 
+원태가 git worktree 써보라던데 구경도 못했다. 
+제욱님은 리눅스 환경 claude code with narrans 좀 써보셨을지도?
+
 ## 2026-05-15
 docker라는걸 처음으로 세팅해보고 만져보는 중인데, 익숙하지 않고 중첩에 중첩이 되어있다보니 헷갈려서 토할 것 같다...
 
